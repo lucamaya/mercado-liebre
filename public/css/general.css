@@ -1,0 +1,15 @@
+:root {
+    --ColorAmarillo: #EAC926;
+    --ColorAzul: #03264C;
+    --ColorCeleste: #1259c3;
+    --ColorGrisoscuro: #666;
+    --ColorGrisclaro: #ebebeb;
+    --ColorVerde: #39b54a;
+
+   --textoSizeCuerpos: 12px;
+   --textoSizeTitulares: 24px;
+   --textoSizePrecios: 18px;
+   --textoSizeDescuentos: 16px;
+   --textoSizeDescripciones: 16px;
+}
+
